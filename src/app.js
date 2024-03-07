@@ -1,3 +1,12 @@
+/*
+* File: app.js
+* Author: Ambrus Zsolt
+* Copyright: 2024, Ambrus Zsolt
+* Group: Szoft I-1-N
+* Date: 2024-03-07
+* Github: https://github.com/AmbrusZsolt/Dolgozat-03-07
+* Licenc: GNU GPL
+*/
 const AInput = document.querySelector("#A")
 const BInput = document.querySelector("#B")
 const CInput = document.querySelector("#C")
